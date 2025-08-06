@@ -93,12 +93,15 @@ FAQs
 ====
 
 **1. What is the kp.org/wa login member portal?**  
+
 A secure site where Kaiser Permanente Washington members can access health records, appointments, test results, and more.
 
 **2. How do I reset my kp.org/wa login member password?**  
+
 Go to `https://kp.org/wa <https://kp.org/wa>`_, click **“Sign In”**, then select **“Forgot password?”** and follow the instructions.
 
 **3. Can I log in from my phone?**  
+
 Yes! Download and use the Kaiser Permanente app to access your account on mobile.
 
 Final Thoughts
