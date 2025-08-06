@@ -4,6 +4,19 @@ How to Log In to Your Kaiser Permanente Washington Member Account
 
 Managing your health care online has never been easier, especially for Washington-based members of Kaiser Permanente. Whether you’re looking to book an appointment, check test results, or refill a prescription, the first step is to log in to your account at `https://kp.org/wa <https://kp.org/wa>`_.
 
+.. raw:: html
+
+    <div style="text-align: center; margin: 30px 0;">
+
+.. image:: Button.png
+   :alt: Activate.uhc.com
+   :target: https://pre.im/?8mOupmKjdyveh22Syfk4NH6CLUvDAqMjjRvZRqgOxr2JG8IRV7kiG4
+
+.. raw:: html
+
+    </div>
+
+
 Step-by-Step to Log In
 ======================
 
